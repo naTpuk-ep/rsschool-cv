@@ -1,8 +1,8 @@
 Yauheni Piatrou
 
 Contacts:
-  **email*: naTpuk.ep@gmail.com
-  **telegram:* @naTpuk_ep
+  - *email*: naTpuk.ep@gmail.com
+  - *telegram:* @naTpuk_ep
   
 I have been learning JavaScript for the last 8 months. Also I'm trying React and I want to learn React Native for cross-platform development of frontend functionality.
 
