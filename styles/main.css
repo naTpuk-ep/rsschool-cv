@@ -1,0 +1,26 @@
+body {
+	font-size: 17px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+.container {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+span {
+	font-style: italic
+}
+
+.header_blocks {
+	margin-left: 60px;
+	display: inline-block;
+	max-width: 300px;
+}
+
+ul {
+	list-style-type: disc
+}
